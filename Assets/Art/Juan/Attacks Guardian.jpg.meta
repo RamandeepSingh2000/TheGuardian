@@ -1,0 +1,2560 @@
+fileFormatVersion: 2
+guid: ce31e01d73cb770429f2545bd04a1bc2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attacks Guardian_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c761d9db5e3c9843b15a6d10e18c037
+      internalID: -1063619468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f4004ca3b61fd4a9b09faac23b7a08
+      internalID: 422784080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e98b339dd09d34bb750b2591cb889a
+      internalID: -1778330747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d04673b495404981defa9b634505c
+      internalID: 1394194933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0338f34789910348aef270a2ab07e01
+      internalID: 1207964612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b0a30da944184eb06aea46e23f81d
+      internalID: -33529655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb48b440bd1c34b9497ed0d037be01
+      internalID: -1620301297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd02c908c37b5b4daf65c16cfd87ccd
+      internalID: -2047688913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3324076abc5dcf4d985e2b345f055a9
+      internalID: 139960632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862c61f4494afc41885b03255106149
+      internalID: -1475388647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_10
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 715
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e339e9bf94b3458764b01505471a0
+      internalID: -673524655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0007cc6b08a7cef4d8a9015d4ddb4f4f
+      internalID: -624573443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b72adab03a964a919f281942ed4c9
+      internalID: -968412868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a430c3e4a1f044b82027bf0fd8f416
+      internalID: -845016317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ec4fed06bef74385c76adabe0927a
+      internalID: 786363558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed61ce59e0a1f74d9fb4ec030e46284
+      internalID: -1447418032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a2c94a5977b7e458d96d4937ab332a
+      internalID: 1707833839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43cc80bacb31894ba0b8a6c7a52b485
+      internalID: -1977559589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda87cfb0874fb42823ccb75fe5008e
+      internalID: 2114273305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_19
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146c7af49b3693d4b9ac84ef32e133c0
+      internalID: 817613008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab308000bf300f4cbefb3f0d338db80
+      internalID: -1745782897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_21
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 636
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9185469150fc841b7546803710d08a
+      internalID: -1007455058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71290dc7e16f30c4ba1f7a15e168c8c9
+      internalID: 886476876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4fe9d5ffeb5b94f991905e1139fcc0
+      internalID: 682263610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887a4271cf6bf804481b4f83082bf1a0
+      internalID: 2140756736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d72a60e8a88994292320ffa36ca69e
+      internalID: 1714741843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef35d95d33d704eb494868bc59df12
+      internalID: 17266347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_27
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bccdda1dfbd8a419a94e12b5b41045
+      internalID: -1300665623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_28
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb36485cfc873084aad84a438a0b88c5
+      internalID: 854039131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_29
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d4fd796d8d7b4397b880b11fe8f4f
+      internalID: -1641670826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_30
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1233dbfc5ad79b94d809a8965ee20a3e
+      internalID: -1734317244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c580b7952539404ebaa7cbd4f398f99
+      internalID: 84809824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_32
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f1e015800cef45ab5f5dc8d99f105
+      internalID: -954313348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3020648d709947ae2f0d29d90bd8e
+      internalID: 490025069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bd192376e7bad4b9fc6c15a81a565a
+      internalID: -50574484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b37b84a2ad0bc34c91c8f7b64a6ec77
+      internalID: -2051367870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7267cfd02921429d0b361db465e44
+      internalID: 1109326185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07f2fd17d417fa4bad38bb5bf6446d3
+      internalID: -1109477431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd75e9a2aefe0564b9608a279be40246
+      internalID: 2133121119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_39
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e261c56ebada4c8d42a714d2a0a3c
+      internalID: -952074893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_40
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c9dfc0e9bb6042b29b2c099173bc0
+      internalID: -40648672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_41
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe693dd3d582bcc439b475b3cf2ba716
+      internalID: 221275533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_42
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d713ff16cdee2e9489d29690bc99902d
+      internalID: 1536157134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_43
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 478
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fb39cd263aabb4cb636e8d4c7380d7
+      internalID: 1004681924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c6195cb1d48a439e3cdf6a3bc2773
+      internalID: 2106409505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb90b701e34d44ca74034c667c2147
+      internalID: -375264389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d84603a55359194c9b74c18bf7e81b1
+      internalID: 465554291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af647792d10884c8016e2fad60a31b
+      internalID: 2004093380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_48
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56036349ad5a0df408bbe61b05e642eb
+      internalID: -219756573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_49
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31091673adf36474a9c91e9fe31fe98d
+      internalID: 294721545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6cce2aa0f56234797acfda2bdbf2e8
+      internalID: 1641793294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_51
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da53a0bd3257f0418ab2096d9626fea
+      internalID: -965594955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_52
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b71f99e7a35c314a808542d08dd7d73
+      internalID: -895626771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_53
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5e6a9daac0a1469a3bd7633f0f677
+      internalID: 1380447929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_54
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec97d1c63b1fb14ab6389bfe2c18780
+      internalID: 264012596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f97bdd54558c545b0e346471298b3b
+      internalID: 2075625756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_56
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5ae0ef4e57f64c967e061174e7909
+      internalID: 813667016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e3b837fef14541b52a52461f5234a
+      internalID: -1263299158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16510be731550ab41853448b08542b89
+      internalID: 942865339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd6c199a69a4714291a728ffcd32e62
+      internalID: -1424026648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_60
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3a2814072672c4eb823498678fba8b
+      internalID: -1906063684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_61
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b46927ee131a64e9be4396e1e58213
+      internalID: -513729659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_62
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155b1e6df8acf74a9e85a6b42808c19
+      internalID: 2141217939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_63
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a657e0e7647d54290b4f9e97541cec
+      internalID: -713666055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_64
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b9146af3b36d54da9cbd3513e08138
+      internalID: -519413158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_65
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ebad7cedf84b947b1c8877ca60c155
+      internalID: 1023557127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c758a5231493064f87c1ca9e38fea40
+      internalID: -1087255014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8cf2cd5a1b9414e80e5e5ed7ad0df4
+      internalID: 342269031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6910f4cf02b94b8011321caaf5950
+      internalID: -876010195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_69
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aff5cba831eca4299d882136e9e87a
+      internalID: -1428749042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_70
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5374b3bdd329b448cf9d232293a5b9
+      internalID: -245808743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ebfa2dc40f9a41a31e18899240bd6
+      internalID: -216072986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_72
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0ff638c0530c488b52aea652a7ded
+      internalID: 135048138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_73
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b42e2db7b203984c827d45aebd44a05
+      internalID: 1166462357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_74
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f48ea5665a3149a66bc5bf368840d
+      internalID: 826220796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_75
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a8c1b23fac1534682be5afbdce7e07
+      internalID: -1111254646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_76
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d43d31f18369d47aaabf0442419a59
+      internalID: 913780241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_77
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a58d1c2a50e842a648597672ee8c4
+      internalID: -864918557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3b6a6581bdb144a0852f871add555
+      internalID: -1219216848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_79
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a204c0364038dc34fa104cf812ee89ce
+      internalID: -316548116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_80
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb396a9f4f2fa4d8986baf3d36bdb7
+      internalID: -787709781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_81
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd9daa918c2a448a661611db526c49
+      internalID: -1173334027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_82
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b848e00c62cd4434abb51683e1794607
+      internalID: -1098176899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_83
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21deb1bbd59cb7468f948393ff20f55
+      internalID: -236202487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_84
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4c862f532c1aa4aba2e2c40dd7a31b
+      internalID: 723308148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_85
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8f13143d27baa46aac99632e03adbb
+      internalID: 1624503669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_86
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e02a9df08f8504f968cbd6d208073e
+      internalID: -2075673329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_87
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 162
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a08e1d2cbbaba45ad1a7c14e0b61bb
+      internalID: -1980593494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_88
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03cc432bac77244f90f5148b4a2f845
+      internalID: -1044764983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46321aba79fd2d145b2aa65f67d8034c
+      internalID: -591299300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_90
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0dbb5fb973714d8ff9ea8654d9735
+      internalID: 66452972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_91
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f34ad8573b4f4cb5d189a524d0ef5
+      internalID: 905570492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_92
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c692a69ce7feb84094ff92bf8c45b24
+      internalID: 1744146029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_93
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbab92eebb7f174fb735fb7df6aaeb1
+      internalID: -436161396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_94
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96673d69be483124e964fca5674f4ead
+      internalID: -845999314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_95
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131d04ff2a092a44911e6e172efa116
+      internalID: 770506459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_96
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215fa3a67ebfc854d89bf2bb304db1ab
+      internalID: -1828997033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_97
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae29f2633b54618468fcaa5502f4818f
+      internalID: -1281460737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_98
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 83
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac06f67a5928ec42a7f82532c536631
+      internalID: 2140212166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_99
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f46f7f620be14aa58723f767de49b
+      internalID: -497645531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_100
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3d5cd389514df4c9d2de994ef36d6e
+      internalID: -1005082654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_101
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea6e4b3b92ae7141a2ba150d2b7b65e
+      internalID: -2014743823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_102
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b36501db4e6646ab9086cc220fada
+      internalID: 2140443913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_103
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fbdd85b44377c499eb6abcb2681a9c
+      internalID: 534383183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_104
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c065d2bfdde1bcc4abc4554e24d30ce3
+      internalID: -603927607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_105
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5613aca297ba05c4f87b54a8bb47f7df
+      internalID: 1152823088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_106
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3d61b006875c47832f8e05e401891
+      internalID: 179274283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_107
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1846d284baddc4490e1853302ec8fe
+      internalID: -1224767478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_108
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf0e398fffcd242b86787e7f4211f7
+      internalID: 2030049344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks Guardian_109
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 4
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c60c286654bd4c907c09e0b348a9e
+      internalID: -1287838073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6c8fc615a4dcf2548904a26c857172d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Attacks Guardian_0: -1063619468
+      Attacks Guardian_1: 422784080
+      Attacks Guardian_10: -673524655
+      Attacks Guardian_100: -1005082654
+      Attacks Guardian_101: -2014743823
+      Attacks Guardian_102: 2140443913
+      Attacks Guardian_103: 534383183
+      Attacks Guardian_104: -603927607
+      Attacks Guardian_105: 1152823088
+      Attacks Guardian_106: 179274283
+      Attacks Guardian_107: -1224767478
+      Attacks Guardian_108: 2030049344
+      Attacks Guardian_109: -1287838073
+      Attacks Guardian_11: -624573443
+      Attacks Guardian_12: -968412868
+      Attacks Guardian_13: -845016317
+      Attacks Guardian_14: 786363558
+      Attacks Guardian_15: -1447418032
+      Attacks Guardian_16: 1707833839
+      Attacks Guardian_17: -1977559589
+      Attacks Guardian_18: 2114273305
+      Attacks Guardian_19: 817613008
+      Attacks Guardian_2: -1778330747
+      Attacks Guardian_20: -1745782897
+      Attacks Guardian_21: -1007455058
+      Attacks Guardian_22: 886476876
+      Attacks Guardian_23: 682263610
+      Attacks Guardian_24: 2140756736
+      Attacks Guardian_25: 1714741843
+      Attacks Guardian_26: 17266347
+      Attacks Guardian_27: -1300665623
+      Attacks Guardian_28: 854039131
+      Attacks Guardian_29: -1641670826
+      Attacks Guardian_3: 1394194933
+      Attacks Guardian_30: -1734317244
+      Attacks Guardian_31: 84809824
+      Attacks Guardian_32: -954313348
+      Attacks Guardian_33: 490025069
+      Attacks Guardian_34: -50574484
+      Attacks Guardian_35: -2051367870
+      Attacks Guardian_36: 1109326185
+      Attacks Guardian_37: -1109477431
+      Attacks Guardian_38: 2133121119
+      Attacks Guardian_39: -952074893
+      Attacks Guardian_4: 1207964612
+      Attacks Guardian_40: -40648672
+      Attacks Guardian_41: 221275533
+      Attacks Guardian_42: 1536157134
+      Attacks Guardian_43: 1004681924
+      Attacks Guardian_44: 2106409505
+      Attacks Guardian_45: -375264389
+      Attacks Guardian_46: 465554291
+      Attacks Guardian_47: 2004093380
+      Attacks Guardian_48: -219756573
+      Attacks Guardian_49: 294721545
+      Attacks Guardian_5: -33529655
+      Attacks Guardian_50: 1641793294
+      Attacks Guardian_51: -965594955
+      Attacks Guardian_52: -895626771
+      Attacks Guardian_53: 1380447929
+      Attacks Guardian_54: 264012596
+      Attacks Guardian_55: 2075625756
+      Attacks Guardian_56: 813667016
+      Attacks Guardian_57: -1263299158
+      Attacks Guardian_58: 942865339
+      Attacks Guardian_59: -1424026648
+      Attacks Guardian_6: -1620301297
+      Attacks Guardian_60: -1906063684
+      Attacks Guardian_61: -513729659
+      Attacks Guardian_62: 2141217939
+      Attacks Guardian_63: -713666055
+      Attacks Guardian_64: -519413158
+      Attacks Guardian_65: 1023557127
+      Attacks Guardian_66: -1087255014
+      Attacks Guardian_67: 342269031
+      Attacks Guardian_68: -876010195
+      Attacks Guardian_69: -1428749042
+      Attacks Guardian_7: -2047688913
+      Attacks Guardian_70: -245808743
+      Attacks Guardian_71: -216072986
+      Attacks Guardian_72: 135048138
+      Attacks Guardian_73: 1166462357
+      Attacks Guardian_74: 826220796
+      Attacks Guardian_75: -1111254646
+      Attacks Guardian_76: 913780241
+      Attacks Guardian_77: -864918557
+      Attacks Guardian_78: -1219216848
+      Attacks Guardian_79: -316548116
+      Attacks Guardian_8: 139960632
+      Attacks Guardian_80: -787709781
+      Attacks Guardian_81: -1173334027
+      Attacks Guardian_82: -1098176899
+      Attacks Guardian_83: -236202487
+      Attacks Guardian_84: 723308148
+      Attacks Guardian_85: 1624503669
+      Attacks Guardian_86: -2075673329
+      Attacks Guardian_87: -1980593494
+      Attacks Guardian_88: -1044764983
+      Attacks Guardian_89: -591299300
+      Attacks Guardian_9: -1475388647
+      Attacks Guardian_90: 66452972
+      Attacks Guardian_91: 905570492
+      Attacks Guardian_92: 1744146029
+      Attacks Guardian_93: -436161396
+      Attacks Guardian_94: -845999314
+      Attacks Guardian_95: 770506459
+      Attacks Guardian_96: -1828997033
+      Attacks Guardian_97: -1281460737
+      Attacks Guardian_98: 2140212166
+      Attacks Guardian_99: -497645531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
